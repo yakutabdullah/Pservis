@@ -1,4 +1,4 @@
-#http://depo.calik.me/pardusarm/main/
+
 
 
 import PyQt4
