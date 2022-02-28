@@ -1,5 +1,5 @@
 # Pservis
-#python service control panel
+# python service control panel
 
 for raspberry pi 
 ftp 
